@@ -1,6 +1,6 @@
 {
   "name": "anbubot",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "A simple Nodejs Facebook Messenger chat for use on your personal Facebook account by @anbuinfosec.",
   "main": "index.js",
   "type": "module",
